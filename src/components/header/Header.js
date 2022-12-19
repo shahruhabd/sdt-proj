@@ -1,7 +1,7 @@
 import React from 'react'
 // import {Link} from 'react-router-dom'
-import logo from '../../img/almau_logo.png'
-import login from '../../img/login.png'
+import logo from '../../img/images/almau_logo.png'
+import login from '../../img/icons/login.png'
 import '../../styles/components/header.css'
 
 const Header = () => {
