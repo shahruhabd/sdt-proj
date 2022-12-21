@@ -10,6 +10,9 @@
     font-weight: 700;
     line-height: 56px;
 }
-.meetup-img {
 
+@media (max-width: 900px) {
+    .meetup-container {
+        margin-top: 100px;
+    }
 }

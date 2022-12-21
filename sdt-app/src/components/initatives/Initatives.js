@@ -17,7 +17,7 @@ const Initatives = () => {
       <div className="initatives-wrapper">
         <div className="initatives-title" id="uIni">Our Initatives</div>
         <div className="initatives-block">
-          <img src={img1} alt="" width={440} />
+          <img className="initatives-block_img" src={img1} alt="" width={440} />
           <img src={n1} alt="" className="initatives-block_num" />
           <div className="initatives-block_descr">
             Establish communication between students and build skills in the
@@ -27,7 +27,7 @@ const Initatives = () => {
           <img src={c1} alt="" className="initatives-block_decor1" />
         </div>
         <div className="initatives-block reverse">
-          <img src={img2} alt="" width={440} />
+          <img className="initatives-block_img" src={img2} alt="" width={440} />
           <img src={n2} alt="" className="initatives-block_num" />
           <div className="initatives-block_descr">
             Provide a forum for interaction between students and startup
@@ -37,7 +37,7 @@ const Initatives = () => {
           <img src={c2} alt="" className="initatives-block_decor2" />
         </div>
         <div className="initatives-block">
-          <img src={img3} alt="" width={440} />
+          <img className="initatives-block_img" src={img3} alt="" width={440} />
           <img src={n3} alt="" className="initatives-block_num" />
           <div className="initatives-block_descr">
             To give SDT students a chance to use their skills and abilities in

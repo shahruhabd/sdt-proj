@@ -64,11 +64,31 @@
     letter-spacing: 0.00938em;
 }
 
+@media (max-width: 1135px) {
+    .section-discr {
+        margin-top: 150px;
+    }
+}
+
+@media (min-width: 0px) {
+    .section-discr__container {
+        display: flex;
+        grid-template-columns: none;
+        flex-direction: column;
+    }
+}
+
 @media (min-width: 900px) {
     .section-discr__container {
         display: grid;
         width: 80%;
         grid-template-columns: repeat(3, 1fr)
+    }
+}
+
+@media (max-width: 900px) {
+    .section-discr {
+        margin-top: 300px;
     }
 }
 
