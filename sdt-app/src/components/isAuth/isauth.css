@@ -1,0 +1,10 @@
+.isauth-container {
+    height: calc(100vh - 291px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #999;
+}
+.isauth-title {
+    font-size: 36px;
+}

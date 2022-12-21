@@ -6,10 +6,11 @@
     margin: 12px auto auto;
     max-width: 1300px!important;
     width: 100%;
+    height: calc(100vh - 86px);
 }
 
 .section-discr__label {
-    margin: 120px 0 0;
+    margin: 50px 0 20px;
     font-weight: 300;
     font-size: 6rem;
     line-height: 1.167;
@@ -17,7 +18,7 @@
 }
 
 .section-discr__underlabel {
-    margin: 24px 0 0;
+    margin: 10px 0 40px;
     font-family: Roboto, Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 1rem;

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f981c3c8.css",
+    "main.js": "/static/js/main.b36dd60a.js",
+    "static/media/i-2.png": "/static/media/i-2.188e6eeaf51531abc848.png",
+    "static/media/i-1.png": "/static/media/i-1.91e4e981f9976d8d0ec8.png",
+    "static/media/i-3.png": "/static/media/i-3.5a10f42d938ca6bac43b.png",
+    "static/media/almau_logo.png": "/static/media/almau_logo.b2cd639c79eba6c9d501.png",
+    "static/media/line.png": "/static/media/line.5edc057be349db4f427d.png",
+    "static/media/sl-1.jpeg": "/static/media/sl-1.bf288826491a864c9ab0.jpeg",
+    "static/media/sl-3.jpeg": "/static/media/sl-3.531f5c50e6ebce21b6cb.jpeg",
+    "static/media/meetup.jpeg": "/static/media/meetup.eb0bc23c8c27d332ed20.jpeg",
+    "static/media/report.png": "/static/media/report.7c6fddede3899c85e549.png",
+    "static/media/sl-2.jpeg": "/static/media/sl-2.10267515774c440b936d.jpeg",
+    "static/media/c1.png": "/static/media/c1.46309a18962fdb13864a.png",
+    "static/media/c2.png": "/static/media/c2.1867204897ea70ab0e0e.png",
+    "static/media/c3.png": "/static/media/c3.7ceaa4264306dd746cc1.png",
+    "static/media/network-icon.svg": "/static/media/network-icon.232165e4b4ccd00358d9023d7ad62f03.svg",
+    "static/media/development.svg": "/static/media/development.d89126cb2cf3f0ca50e8fd14c04d4240.svg",
+    "index.html": "/index.html",
+    "static/media/experience.svg": "/static/media/experience.268e544bceb05110b424a3e8285beab3.svg",
+    "main.f981c3c8.css.map": "/static/css/main.f981c3c8.css.map",
+    "main.b36dd60a.js.map": "/static/js/main.b36dd60a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f981c3c8.css",
+    "static/js/main.b36dd60a.js"
+  ]
+}

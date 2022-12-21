@@ -13,7 +13,7 @@ function SectionDiscr() {
                     Expand your horizons, gain knowledge, and create future with us.
                 </p>
             </div>
-            <h2 className="h2 typography-root section_discr__sublabel">Things we do</h2>
+            <h2 className="h2 typography-root section_discr__sublabel" id='tWeDo'>Things we do</h2>
             <div className="section-discr__container">
                 <div className="section-discr__container__card">
                     <img src={network} alt="networking-icon" style={{height: '40px'}}/>

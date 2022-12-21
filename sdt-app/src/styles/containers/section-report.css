@@ -80,3 +80,7 @@
     inset: 0;
     border-radius: inherit;
 }
+.event-date {
+    background-color: #bbb;
+    padding: 0 3px;
+}

@@ -37,43 +37,18 @@ function Header() {
           Home
         </a>
         <a
-          href="sdt-proj/src/components/header/Header#"
+          href='#tWeDo'
           className="link header__link"
         >
           Things we do
         </a>
         <a
-          href="sdt-proj/src/components/header/Header#"
+          href="#uIni"
           className="link header__link"
         >
           Our Initiatives
         </a>
         <div className="header__buttons">
-          {/* <Popup
-            trigger={(open) => (
-              <button className="header__button button">
-                {value ? (
-                  <>{localStorage.getItem("username")}</>
-                ) : (
-                    <>Login <img src={login} alt="login" /></>
-                    
-                )}
-              </button>
-            )}
-            position="bottom right"
-            closeOnDocumentClick
-          >
-            <span>
-              {value ? (
-                <button onClick={logout} className="button header__button">
-                  Logout <img src={login} alt="login" />
-                </button>
-              ) : (
-                <button className="login-with-google-btn" onClick={handleClick}>Signin With Google</button>
-              )}
-            </span>
-          </Popup> */}
-
           <Popup
             trigger={
               <button className="button header__button">
@@ -81,7 +56,7 @@ function Header() {
                 {value ? (
                   <>{localStorage.getItem("username")}</>
                 ) : (
-                  <h2>Log in</h2>
+                  <>Log in <img src={login} alt="login" /></>
                 )}{" "}
               </button>
             }

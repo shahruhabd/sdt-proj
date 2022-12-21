@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    margin: 0px 0px 56px;
+    line-height: 1.235;
+    letter-spacing: 0.00735em;
+    color: rgb(25, 31, 40);
+    font-size: 28px;
+    font-weight: 700;
+    font-size: 28px;
+}
+.carousel-slider {
+    /* height: 350px;
+    width: 350px; */
+    max-width: 40%;
+    margin: 0 auto;
+}
+.carousel-status {
+    display: none;
+}
+.carousel.carousel-slider .control-arrow:hover {
+    background-color: inherit;
+}
+.carousel.carousel-slider {
+    margin: auto;
+}
+.carousel .thumbs-wrapper {
+    text-align: center;
+}

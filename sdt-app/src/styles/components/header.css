@@ -23,6 +23,7 @@
     display: flex;
     align-items: center;
     padding: 6px 12px;
+    font-weight: 500;
 }
 .header__link:hover {
     background-color: rgba(25, 118, 210, 0.04);
