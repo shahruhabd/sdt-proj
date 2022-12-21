@@ -106,10 +106,19 @@
 }
 
 @media (max-width: 768px) {
+    .initatives-block_decor1 {
+        display: none;
+    }
     .initatives-block_num {
         width: 40px;
     }
     .initatives-block_descr {
         font-size: 17px;
+    }
+    .initatives-block_decor3 {
+        display: none;
+    }
+    .initatives-wrapper {
+        padding: 50px 10px;
     }
 }

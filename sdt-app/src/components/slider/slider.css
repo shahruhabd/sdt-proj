@@ -4,9 +4,10 @@
     margin-top: 70px;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 .title {
-    margin: 0px 0px 56px;
+    margin: 0 0 56px;
     line-height: 1.235;
     letter-spacing: 0.00735em;
     color: rgb(25, 31, 40);
@@ -41,6 +42,6 @@
 
 @media (max-width: 768px) {
     .title {
-        font-size: 20px;
+        font-size: 18px;
     }
 }
