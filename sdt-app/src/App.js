@@ -12,7 +12,7 @@ function App() {
     setValue(localStorage.getItem("email"));
   });
   return (
-    <div className="App">
+    <div className="App"> 
       <Header></Header>
       {value ? <>
         <MainContainer></MainContainer>
