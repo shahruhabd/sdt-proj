@@ -5,7 +5,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    position: relative; 
+    position: relative;
 }
 .initatives-container {
     background-color: rgb(25, 31, 40);
@@ -13,6 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 160px;
 }
 .initatives-title {
     font-size: 48px;
@@ -40,7 +41,7 @@
 .initatives-block_line {
     position: absolute;
     top: 10%;
-    width: 127%;
+    width: 101%;
 }
 .initatives-block_decor1 {
     width: 212px;

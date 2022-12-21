@@ -8,8 +8,8 @@ function MainContainer() {
     return(
         <div className="layout main-container">
             <SectionDiscr></SectionDiscr>
-            <Initatives></Initatives>
             <SectionReport></SectionReport>
+            <Initatives></Initatives>
             <SectionMeetups></SectionMeetups>
         </div>
     )
