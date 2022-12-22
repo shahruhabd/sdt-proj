@@ -142,6 +142,17 @@ function Header() {
           {/* <button className='button header__button'>Login<img src={login} alt="login" /></button>
                 <button className='button header__button'>Register<img src={login} alt="login" /></button> */}
         </div>
+        <div className="hamburger-menu">
+          <input id="menu__toggle" type="checkbox"/>
+          <label className="menu__btn" htmlFor="menu__toggle">
+            <span></span>
+          </label>
+          <ul className="menu__box">
+            <li><a className="menu__item" href="sdt-proj/src/components/header/Header#">Home</a></li>
+            <li><a className="menu__item" href="#tWeDo">Things we do</a></li>
+            <li><a className="menu__item" href="#uIni">Our initiatives</a></li>
+          </ul>
+        </div>
       </div>
     </div>
   );
